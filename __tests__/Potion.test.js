@@ -1,4 +1,3 @@
-const { TestWatcher } = require("jest");
 const Potion = require("../lib/Potion");
 
 test('creates a random potion object', () => {
